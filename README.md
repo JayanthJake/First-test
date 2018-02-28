@@ -1,4 +1,2 @@
 # First-test
-Public programs (noobies)
-This is a test done on readme. Added another program of temperatures.
-added again
+Added a python program referencing to George Michael.
